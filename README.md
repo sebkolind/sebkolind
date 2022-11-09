@@ -1,6 +1,6 @@
 👋 Hi, I’m @sebkolind
 
-👀 I’m interested in Typescript
+👀 I’m interested in Vim & Typescript
 
 🌱 I’m currently learning ... always learning
 
