@@ -1,12 +1,10 @@
 👋 Hi, I’m @sebkolind
 
-👀 I'm interested in Vim & Typescript
-
 💼 I'm currently working at [Public.com](https://public.com)
 
 🌱 I'm currently learning ... always learning
 
-💞️ I'm looking to collaborate on any Typescript or Neovim project
+💞️ I'm looking to collaborate on any Typescript, React, Svelte... just a cool project :)
 
 📫 How to reach me sks1993@gmail.com
 
