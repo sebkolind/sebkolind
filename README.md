@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning ... always learning
 
-💞️ I'm looking to collaborate on any Typescript, React, Svelte... just a cool project :)
+💞️ I'm looking to collaborate on any Javascript, Typescript, React, Svelte, Lua... just a cool project :)
 
 📫 How to reach me sks1993@gmail.com
 
