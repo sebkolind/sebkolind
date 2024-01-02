@@ -1,12 +1,6 @@
-👋 Hi, I’m @sebkolind
+👋 Hi, I’m @sebkolind. I am a frontend engineer at [Public.com](https://public.com).
 
-💼 I'm currently working at [Public.com](https://public.com)
-
-🌱 I'm currently learning ... always learning
-
-💞️ I'm looking to collaborate on any Javascript, Typescript, React, Svelte, Lua... just a cool project :)
-
-📫 How to reach me sks1993@gmail.com
+In my spare time I am building ⛺ [tent](https://github.com/tentjs/tent) - a jsx-free, super-lightweight and zero-dependency library to add interactivity to the web.
 
 <!---
 sebkolind/sebkolind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
