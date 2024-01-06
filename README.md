@@ -1,6 +1,21 @@
-👋 Hi, I’m @sebkolind. I am a frontend engineer at [Public.com](https://public.com).
+Hi! 👋
 
-In my spare time I am building ⛺ [tent](https://github.com/tentjs/tent) - a jsx-free, super-lightweight and zero-dependency library to add interactivity to the web. My motivation for working on tent, is that I don't think you need JSX, SSR, special HTML syntax, or any other complicated technologies to build awesome interactive web apps. If you agree on any, or all, of the above, feel free to reach out or contribute to any of the ⛺ [projects](https://github.com/tentjs).
+**Me**
+
+- I am a frontend engineer
+- I sometimes write stuff on my [blog](https://itsmeseb.dev)
+- I work at [Public.com](https://public.com)
+
+**Projects**
+
+- ⛺ [Tent](https://github.com/tentjs/tent) — a refreshing library to add interactivity to the web.
+- 🌋 [Volcano](https://github.com/sebkolind/volcano) — a super lightweight blog/website constructor.
+
+**Get in touch**
+
+- [E-mail](mailto:artiste_avid_0z@icloud.com)
+- [Twitter](https://x.com/seb_lks)
+- [Threads](https://threads.net/sebkolind)
 
 <!---
 sebkolind/sebkolind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
