@@ -1,6 +1,6 @@
 Hi! 👋
 
-- I am a frontend engineer
+- I build frontend things
 - I sometimes write stuff on my [blog](https://itsmeseb.dev)
 - I work at [Public.com](https://public.com)
 
