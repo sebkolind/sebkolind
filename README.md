@@ -11,10 +11,10 @@ Hi! 👋
 
 **🫶🏻 Support me**
 
-All support is highly appreciated, and I will make sure to list you here if you'd like.
-
 - [Buy me a Coffee ☕](https://buymeacoffee.com/sebkolind)
 - Give a ⭐ to any of my projects.
+
+All support is highly appreciated, and I will make sure to list you here if you'd like.
 
 **🤝🏻 Get in touch**
 
