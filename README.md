@@ -6,7 +6,7 @@ Hi! 👋
 
 **🛠️ Projects**
 
-- ⛺ [Tent](https://github.com/tentjs/tent) — a refreshing way to add interactivity to the web.
+- ⛺ [Tent](https://github.com/tentjs/tent) — a simpler way to add reactivity to the web.
 - 🌋 [Volcano](https://github.com/sebkolind/volcano) — a super lightweight blog/website constructor.
 
 **🫶🏻 Support me**
