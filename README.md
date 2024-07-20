@@ -6,6 +6,7 @@ Hi! 👋
 
 **🛠️ Projects**
 
+- 🐲 Working on a lightweight drag&drop library
 - ⛺ [Tent](https://github.com/tentjs/tent) — a simpler way to add reactivity to the web.
 - 🌋 [Volcano](https://github.com/sebkolind/volcano) — a super lightweight blog/website constructor.
 
@@ -19,7 +20,8 @@ All support is highly appreciated, and I will make sure to list you here if you'
 **🤝🏻 Get in touch**
 
 - [The good ol' e-mail](mailto:sks1993@gmail.com)
-- [@seb_lks](https://x.com/seb_lks)
+- [@sebkolind on Threads](https://threads.net/@sebkolind)
+- [@seb_lks on X](https://x.com/seb_lks)
 
 <!---
 sebkolind/sebkolind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
