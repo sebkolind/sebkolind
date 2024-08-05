@@ -1,4 +1,4 @@
-Hi! 👋
+Hi! 👋🏻
 
 - I build frontend things
 - I sometimes write stuff on my [blog](https://itsmeseb.dev)
