@@ -6,7 +6,7 @@ Hi! 👋🏻
 
 **🛠️ Projects**
 
-- 👨🏻‍🦱 Working on a framework agnostic TypeScript State Management library.
+- 👨🏻‍🦱 Working on a framework agnostic State Management library written in TypeScript.
 - 🐲 [Draggy](https://github.com/sebkolind/draggy) — a lightweight drag&drop library.
 - 💆🏻‍♀️ [Libby](https://github.com/sebkolind/libby) — a TypeScript library starter template.
 - ⛺ [Tent](https://github.com/tentjs/tent) — a simpler way to add reactivity to the web.
