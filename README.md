@@ -6,7 +6,8 @@ Hi! 👋🏻
 
 **🛠️ Projects**
 
-- 👨🏻‍🦱 Working on a framework agnostic State Management library written in TypeScript.
+- 👨🏻‍🦱 WIP: A framework agnostic State Management library written in TypeScript.
+- ⚡️ WIP: A minimal CLI tool for project management.
 - 🐲 [Draggy](https://github.com/sebkolind/draggy) — a lightweight drag&drop library.
 - 💆🏻‍♀️ [Libby](https://github.com/sebkolind/libby) — a TypeScript library starter template.
 - ⛺ [Tent](https://github.com/tentjs/tent) — a simpler way to add reactivity to the web.
