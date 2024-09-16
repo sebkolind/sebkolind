@@ -6,7 +6,6 @@ Hi! 👋🏻
 
 **🛠️ Projects**
 
-- 👨🏻‍🦱 WIP — a framework agnostic State Management library written in TypeScript.
 - ⚡️ WIP — a minimal CLI tool for project management written in Go.
 - 🐲 [Draggy](https://github.com/sebkolind/draggy) — a lightweight drag&drop library.
 - 💆🏻‍♀️ [Libby](https://github.com/sebkolind/libby) — a TypeScript library starter template.
