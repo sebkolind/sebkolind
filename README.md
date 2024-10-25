@@ -22,8 +22,6 @@ All support is highly appreciated, and I will make sure to list you here if you'
 **🤝🏻 Get in touch**
 
 - [The good ol' e-mail](mailto:sks1993@gmail.com)
-- [@sebkolind on Threads](https://threads.net/@sebkolind)
-- [@seb_lks on X](https://x.com/seb_lks)
 
 <!---
 sebkolind/sebkolind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
