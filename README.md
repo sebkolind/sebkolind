@@ -1,11 +1,12 @@
 Hi! 👋🏻
 
 - I build frontend things
-- I sometimes write stuff on my [blog](https://itsmeseb.dev)
+- I ~~sometimes~~ rarely write stuff on my [blog](https://itsmeseb.dev)
 - I work at [Public.com](https://public.com)
 
 **🛠️ Projects**
 
+- 🚀 WIP — a simple CLI tool for generating daily updates.
 - ⚡️ WIP — a minimal CLI tool for project management written in Go.
 - 🐲 [Draggy](https://github.com/sebkolind/draggy) — a lightweight drag&drop library.
 - 💆🏻‍♀️ [Libby](https://github.com/sebkolind/libby) — a TypeScript library starter template.
