@@ -8,7 +8,6 @@ Hi! 👋🏻
 
 - 🐲 [Draggy](https://github.com/sebkolind/draggy) — a lightweight drag&drop library.
 - 💆🏻‍♀️ [Libby](https://github.com/sebkolind/libby) — a TypeScript library starter template.
-- ⛺ [Tent](https://github.com/tentjs/tent) — a simpler way to add reactivity to the web.
 - 🌋 [Volcano](https://github.com/sebkolind/volcano) — a super lightweight blog/website constructor.
 
 **🫶🏻 Support me**
